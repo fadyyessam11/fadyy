@@ -2,15 +2,10 @@
 public abstract class User {
 
     protected String name;
-
     protected String email;
-
     protected int id;
-
     protected String password;
-
     protected long phone;
-
     protected int Ewallat;
 
     /**
